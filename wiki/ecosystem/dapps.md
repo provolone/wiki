@@ -8,5 +8,11 @@ Frequently Used dApps:
 🎴[Paras](https://paras.id/)
 🚀[SKYWARD](https://app.skyward.finance/)
 
+Games:
+
+🏠[Pumpopoly](https://pumpopoly.com/)
+
+Directories:
+
 Awesome NEAR [https://awesomenear.com/](https://awesomenear.com/) \(Find Live and Up and Coming Projects\)
 
